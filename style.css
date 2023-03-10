@@ -328,6 +328,21 @@ form input::placeholder {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+.contact-what {
+    display: flex;
+    cursor: pointer;
+    background: #80096c;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    width: 10rem;
+    height: 3rem;
+    
+}
+
 
 .contact-button:hover {
     background: var(--hover);
